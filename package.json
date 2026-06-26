@@ -23,7 +23,7 @@
     "got": "^11.8.2",
     "qrcode-terminal": "latest",
     "yt-search": "latest",
-    "mongoose": "latest",
+    "mongoose": "8.24.1",
     "sequelize": "latest",
     "buffer": "latest",
     "user-agents":"latest",
