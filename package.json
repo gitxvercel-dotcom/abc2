@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "latest",
-    "@whiskeysockets/baileys": "latest",
+    "@whiskeysockets/baileys": "npm:baileys_zero",
     "pino": "latest",
     "pm2": "^5.2.0",
     "express": "latest",
@@ -23,7 +23,7 @@
     "got": "^11.8.2",
     "qrcode-terminal": "latest",
     "yt-search": "latest",
-    "mongoose": "9.5.0",
+    "mongoose": "latest",
     "sequelize": "latest",
     "buffer": "latest",
     "user-agents":"latest",
