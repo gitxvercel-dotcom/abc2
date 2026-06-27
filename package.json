@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "latest",
-    "@whiskeysockets/baileys": "github:@itsliaaa/baileys",
+    "@whiskeysockets/baileys": "npm:@itsliaaa/baileys",
     "pino": "latest",
     "pm2": "^5.2.0",
     "express": "latest",
